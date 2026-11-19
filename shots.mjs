@@ -27,6 +27,7 @@ try {
     localStorage.setItem('leonida-field-notes-preferences-v1', JSON.stringify({ spoilers: false, view: 'tracker' }));
   }, { progress: storage });
   await page.goto('http://127.0.0.1:8091/', { waitUntil: 'networkidle' });
+  await page.evaluate(() => document.fonts.ready);
   await page.addStyleTag({ content: 'html{scroll-behavior:auto!important}*,*:before,*:after{animation:none!important;transition:none!important}' });
   await page.locator('#workspace').evaluate(node => window.scrollTo(0, node.getBoundingClientRect().top + window.scrollY - 18));
   await page.waitForTimeout(250);
@@ -46,6 +47,7 @@ try {
   await page.locator('#search').fill('Maximum Withdrawal');
   await page.waitForTimeout(150);
   await page.locator('.trophy-row').first().click();
+  await page.locator('.guide-block').filter({ hasText: 'Track five Bank Vault robberies' }).waitFor();
   await page.locator('#workspace').evaluate(node => window.scrollTo(0, node.getBoundingClientRect().top + window.scrollY - 18));
   await page.waitForTimeout(250);
   await capture(page, '04-trophy-guide.jpg');

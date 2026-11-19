@@ -1,3 +1,4 @@
+// Keep the existing keys so refreshed guide text preserves saved progress.
 const STORAGE_KEY = 'leonida-field-notes-progress-v1';
 const PREFERENCE_KEY = 'leonida-field-notes-preferences-v1';
 
@@ -32,6 +33,7 @@ export function readImport(text, validNames) {
   if (!Array.isArray(names) || names.some(name => typeof name !== 'string')) {
     throw new Error('Choose a progress export containing trophy names.');
   }
+  // Imported progress is matched against trophy names in the bundled list.
   const known = new Set(validNames);
   return new Set(names.filter(name => known.has(name)));
 }
