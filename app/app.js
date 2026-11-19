@@ -32,7 +32,7 @@ function displayName(trophy) {
 function allowed(trophy) {
   const query = search.value.trim().toLocaleLowerCase();
   const gradeMatch = gradeFilter.value === 'all' || trophy.grade === gradeFilter.value;
-  const kindMatch = kindFilter.value === 'all' || (kindFilter.value === 'missable' ? trophy.missable === true : trophy.kind.includes(kindFilter.value));
+  const kindMatch = kindFilter.value === 'all' || (kindFilter.value === 'missable' ? trophy.missableStatus === 'unverified' : trophy.kind.includes(kindFilter.value));
   const searchable = `${trophy.name} ${trophy.description} ${trophy.guide} ${trophy.kind.join(' ')}`.toLocaleLowerCase();
   return gradeMatch && kindMatch && (!query || searchable.includes(query));
 }
