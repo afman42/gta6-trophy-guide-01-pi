@@ -1,0 +1,1404 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "Keep this as the final cleanup goal: use the in-game completion record to identify unfinished requirements, then earn the other 54 list entries. The supplied sources confirm the trophy and its target; they do not document a reliable fastest route.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Finish last",
+      "priority": "milestone"
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "Complete the named opening mission, Gone Fishing. Follow the active mission objective and finish its ending; the supplied list gives no route or fail-state detail, so any exact steps beyond that are untested suggestions.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Opening"
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Advance through the main story until the game records Chapter 1 complete. The trophy text names the chapter, not a specific mission order or replay method; consult the in-game story log if progress does not register.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Chapter 1"
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 2 and check the trophy list for confirmation. This is a chapter-clear requirement; no missable condition or mission sequence is established by the cited list.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Chapter 2"
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "Continue the main story to the Chapter 3 completion trigger. Use the game's chapter progress as the authority; a particular mission route is not verified by the sources listed here.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Chapter 3"
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 4, then confirm the unlock in the console trophy list. The supplied description does not specify optional objectives, difficulty, or a one-time window.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Chapter 4"
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "Finish the campaign's final mission. The name and gold grade come from the cited lists; the exact mission name, ending choice, and replay behavior are not specified in the supplied description, so treat any route as untested.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Finale",
+      "priority": "milestone"
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "Complete Breakfast Run as named. Track story progress and verify the unlock afterward; the description does not give prerequisite steps or confirm whether replay is available.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "Complete The Cartel Heist. Follow the mission marker and its active objective; this guide does not invent an approach, loadout, or optional objective absent from the cited description.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Finish Child's Play and check for the trophy notification. The supplied description identifies the mission but does not establish its location, prerequisites, or missability.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Complete Headliners. Use the game's mission log if the objective is not available; any specific unlock condition beyond the named mission is unverified here.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "Finish VCIA Takedown, then check the trophy list. The title suggests a location but the supplied official description only names the mission; no extra route is asserted.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Complete Operation Savage Glory. Let the mission objectives guide the run and verify the unlock; the cited list gives no confirmed strategy or optional requirement.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Use the game's 100% completion tracker as a checklist and clear every requirement it reports. The trophy description sets the target but the supplied data does not enumerate categories, so use the live in-game record rather than an invented checklist.",
+      "hidden": false,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Completion cleanup",
+      "priority": "milestone"
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "Reach 250 completed stunts as counted by the game. Favor attempts you can repeat safely, and check the tracked total after each session; a fastest location or route is an untested suggestion, not a verified fact.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist",
+      "priority": "milestone"
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "Try each of the nine activity types at least once. Keep a simple tally in the guide and compare it with the game's activity record; the source target is nine distinct types, not nine total attempts.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "Earn gold in every Shooting Range challenge: the supplied target is 42 challenges. Work on one challenge at a time and revisit lower medals; specific weapon or scoring tips are not verified by the listed sources.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist",
+      "priority": "milestone"
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "Win a Top Fun Drone Race at each of the 14 locations. Record locations as you go and revisit any without a win; the count is sourced, but no location list is available in the supplied data.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Win 20 different races, not merely 20 runs of one event. Keep track of distinct race names and use the game's activity record to spot gaps; no recommended race route is verified.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Beat Cal in a fishing challenge. The list does not name the venue, equipment, or challenge rules, so locate the activity through in-game prompts and treat any exact setup advice as untested.",
+      "hidden": true,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Complete one arcade game. Choose an available machine and finish a full game rather than only starting it; the source does not identify a particular cabinet or location.",
+      "hidden": true,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Complete Andy's final mission. Follow the character's mission strand until its final entry is marked complete; the cited description does not say where the strand starts or whether it can be missed.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "Finish Kenton's last mission and confirm the trophy unlock. The supplied description names the character and endpoint only; use the in-game strand tracker for progress rather than relying on an unverified location.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Complete Billy's final mission. Keep advancing Billy's mission strand until the game records its ending; prerequisite and replay details are not established in the supplied sources.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "Complete eight distinct stranger mission strands across Leonida. Track strand completions rather than individual missions; the sources specify the count but provide no dependable list of strand locations here.",
+      "hidden": true,
+      "kind": [
+        "story",
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup",
+      "priority": "milestone"
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "Complete Randy's final mission. Use the game's mission log to continue the strand and verify the completion; no location, prerequisite, or missable window is confirmed by the cited text.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Finish Tyrone's final mission. Follow the active strand to its final completion marker; the exact sequence is not supplied, so do not treat a guessed route as confirmed.",
+      "hidden": true,
+      "kind": [
+        "story"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Story and cleanup"
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "Meditate at all 18 spots across Leonida. Mark each spot only after the action registers and use the game's activity records to find remaining progress; the cited target gives a count, not coordinates.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Hunt the unique animal required for Bret. The description does not identify the animal, habitat, or equipment; use Bret's in-game prompt and regard any species or location tip as untested until confirmed.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Complete three collectible card sets. Track full sets separately and compare the game's collectible counter before spending time on extras; the cited target is three sets, with no card locations supplied here.",
+      "hidden": false,
+      "kind": [
+        "collectibles"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist",
+      "priority": "milestone"
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "Use WAiNK It at 100 locations and check the counter periodically. The sources name the feature and target but do not map the locations; any suggested route would be untested.",
+      "hidden": false,
+      "kind": [
+        "collectibles"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist",
+      "priority": "milestone"
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "Finish 50 challenges as counted by the game. Keep progress on the in-game counter and prioritize challenges you can verify as complete; the description does not list the challenge pool.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "With your partner, escape a four-star Wanted Level. The trophy text states the condition; prepare a safe escape plan before raising the level. Exact pursuit tactics and partner requirements beyond the wording are unverified.",
+      "hidden": false,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "With your partner, rob three shops consecutively without clearing the Wanted Level between them. The description gives the sequence; routes, shop locations, and whether the sequence is replayable are not established here. Treat route ideas as untested.",
+      "hidden": false,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "Discover 100 vehicles as the game tracks discovery. Try a broad range of vehicles and check the counter; the sources give a threshold but no definitive vehicle list or discovery rule.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Take down five enemies during one use of Combat Focus. Wait until five targets are available, activate the ability, and confirm all five count within that single use; exact timing and loadout advice is untested.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "Make an unscheduled departure at VCIA. The wording describes the event but not its trigger; use in-game clues at the airport and treat any guessed vehicle or exit method as an untested suggestion.",
+      "hidden": false,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "The supplied description is deliberately cryptic and does not spell out the condition. Treat the title as a clue only; no verified Rhino/tank strategy can be inferred from this text, so check an updated source before committing time.",
+      "hidden": false,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Rob a jewelry store without being detected. The description sets a stealth condition but names no store, entry point, or detection rules; use the game's stealth cues and consider any specific route untested.",
+      "hidden": false,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "Rob five Bank Vaults and escape each time. Track successful escapes, not just vault entries; the sources give the count but no confirmed vault locations or repeatability details.",
+      "hidden": false,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist",
+      "priority": "milestone"
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Rob an Armored Truck and escape. The description provides both required parts; the appearance trigger, approach, and escape route are not specified, so any exact location advice is untested.",
+      "hidden": false,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Explore all 52 areas of Leonida and use the in-game map or completion record to find uncovered areas. The count is sourced; the supplied data does not name the areas or their boundaries.",
+      "hidden": false,
+      "kind": [
+        "collectibles"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "Rob one Illegal Operation belonging to each of the nine gangs. Keep a nine-gang checklist and verify each operation registers; the source target does not identify gang names or locations.",
+      "hidden": false,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. The description identifies the broad area and action, but not a venue or time; find an appropriate in-game prompt. Any exact spot suggestion is untested.",
+      "hidden": true,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "Smash your way out of a vehicle showroom in the described classic style. The trophy wording is the only verified instruction; identify the relevant showroom and trigger in play, since a specific vehicle or exit technique is not documented here.",
+      "hidden": true,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "Follow through at the bowling alley named Kolt & Associates. Find its in-game activity prompt and complete the bowling interaction; the sources do not verify a particular score or number of frames.",
+      "hidden": true,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "The description is an allusion rather than a clear checklist. It mentions a partnership and broad appeal but states no count or steps; consult the in-game trophy hint and treat any interpretation here as untested.",
+      "hidden": true,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "The source text says choices made, for better or worse, and the tracker associates a 500 target. Continue making choices that the game counts, then confirm the counter; which choices qualify is not established by the description.",
+      "hidden": true,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "The description hints at succeeding on a second attempt but gives no activity or trigger. Use the trophy's in-game hint to identify the intended event; a specific retry method would be an untested guess.",
+      "hidden": true,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "The source description is intentionally vague. Watch for the event the game associates with this trophy and verify the unlock; no specific phenomenon or location is confirmed by the supplied information.",
+      "hidden": true,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "Perform a melee drive-by that bowls someone over. The description identifies the action; the vehicle, input sequence, and target setup are not documented here and should be treated as untested suggestions.",
+      "hidden": true,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "Earn $250,000 by laundering Marked Bills through contacts. Follow the in-game contact system and monitor the cumulative amount; the sources give the currency target but no verified contact list or optimal timing.",
+      "hidden": false,
+      "kind": [
+        "crime"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "Spend a cumulative $100,000 across shops. Purchases count toward the stated total; check progress periodically and avoid assuming every vendor type qualifies unless the game counter confirms it.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "Purchase all eight garage properties. Keep a checklist of owned garages and confirm the count in the property or completion record; the source gives the number but no locations or price order.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Register 10 vehicles to the Scooter Bros app. Use the in-game app flow and confirm every registration adds to the counter; the exact eligible vehicle types are not identified in the supplied description.",
+      "hidden": false,
+      "kind": [
+        "activities"
+      ],
+      "missable": false,
+      "missableStatus": "unverified",
+      "missableNote": "No supplied trophy description confirms a one-time window. This is not proof that the trophy is permanently available; verify with an up-to-date guide before skipping content.",
+      "sources": [
+        {
+          "name": "Exophase",
+          "role": "Official name, description, grade and listed progress target."
+        },
+        {
+          "name": "PSNProfiles",
+          "role": "Cross-check for the trophy list and listed progress target."
+        }
+      ],
+      "roadmapStage": "Open-world checklist"
+    }
+  ],
+  "metadata": {
+    "trophyCount": 55,
+    "gradeCounts": {
+      "platinum": 1,
+      "gold": 2,
+      "silver": 6,
+      "bronze": 46
+    },
+    "hiddenCount": 28,
+    "provenanceNote": "Official names, descriptions, grades, and stated targets follow the starter list, cross-referenced by source name to Exophase and PSNProfiles. The starter file provided no per-trophy hidden markers, so the 28-item hidden assignment is an explicitly inferred mapping, not independently verified. No missable status was established by the supplied descriptions; unknown is shown rather than claiming safe or missable.",
+    "offline": "All guide content is bundled locally. Source references are labels only and are not fetched."
+  }
+}
