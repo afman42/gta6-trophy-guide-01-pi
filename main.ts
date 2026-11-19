@@ -1,4 +1,4 @@
-import { cpSync, mkdirSync, readdirSync, readFileSync, statSync, writeFileSync } from 'node:fs';
+import { cpSync, mkdirSync, readdirSync, rmSync, statSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildDossier } from './vendor/makefun-frontend.ts';
@@ -18,6 +18,7 @@ function verifyCaptureSet(folder) {
 
 function prepareOutput() {
   mkdirSync(output, { recursive: true });
+  for (const name of ['app', 'screenshots', 'dossier.json']) rmSync(join(output, name), { recursive: true, force: true });
   cpSync(join(project, 'app'), join(output, 'app'), { recursive: true });
   verifyCaptureSet(join(project, 'screenshots'));
   cpSync(join(project, 'screenshots'), join(output, 'screenshots'), { recursive: true });

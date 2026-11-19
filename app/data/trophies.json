@@ -338,7 +338,7 @@
       "guide": "Use the game's 100% completion tracker as a checklist and clear every requirement it reports. The trophy description sets the target but the supplied data does not enumerate categories, so use the live in-game record rather than an invented checklist.",
       "hidden": false,
       "kind": [
-        "story"
+        "activities"
       ],
       "missable": null,
       "missableStatus": "unverified",
@@ -353,7 +353,7 @@
           "role": "Cross-check for the trophy list and listed progress target."
         }
       ],
-      "roadmapStage": "Completion cleanup",
+      "roadmapStage": "Open-world completion",
       "priority": "milestone"
     },
     {
