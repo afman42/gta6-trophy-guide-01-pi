@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#151d1b">
+  <title>Leonida Field Notes — GTA VI trophy guide</title>
+  <meta name="description" content="An offline GTA VI PS5 trophy guide, roadmap and checklist.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="masthead">
+      <a class="wordmark" href="#top" aria-label="Leonida Field Notes home"><span class="mark">L<span>·</span></span><span>LEONIDA <b>FIELD NOTES</b></span></a>
+      <div class="mast-note"><span class="live-dot"></span> OFFLINE GUIDE <i>·</i> PS5 EDITION</div>
+    </header>
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">YOUR ROAD TO THE PLATINUM</p>
+          <h1>Make every<br><em>moment</em> count.</h1>
+          <p class="intro">A field guide to all 55 Grand Theft Auto VI trophies. Track your run, keep the spoilers in check, and take the long way around Leonida.</p>
+          <div class="hero-actions"><button class="button primary" data-view="tracker">Open tracker <span>↗</span></button><button class="text-button" data-view="roadmap">View the roadmap <span>→</span></button></div>
+        </div>
+        <div class="hero-card" aria-label="Trophy progress">
+          <div class="sun-disc"></div><div class="route route-one"></div><div class="route route-two"></div>
+          <span class="card-label">THE LONG HAUL</span>
+          <div class="statline"><strong id="hero-earned">0</strong><span>/ 55<br>trophies</span><span class="stat-divider"></span><span class="percent" id="hero-percent">0%</span></div>
+          <div class="progress-track"><span id="hero-bar"></span></div>
+          <div class="card-foot"><span>ONE LEGEND IN THE MAKING</span><span>LEONIDA · FL</span></div>
+        </div>
+      </section>
+      <section class="overview" aria-label="Trophy grade summary">
+        <div class="overview-title"><span class="eyebrow">THE COLLECTION</span><h2>55 trophies.<br><span>One wild state.</span></h2><p>Keep an eye on the little things. They add up.</p></div>
+        <div class="grade-grid">
+          <div class="grade-item platinum"><span class="grade-gem">✦</span><span class="grade-name">Platinum</span><strong>01</strong><small>THE ONE TO CHASE</small></div>
+          <div class="grade-item gold"><span class="grade-gem">✦</span><span class="grade-name">Gold</span><strong>02</strong><small>BIG MILESTONES</small></div>
+          <div class="grade-item silver"><span class="grade-gem">✦</span><span class="grade-name">Silver</span><strong>06</strong><small>WORTH THE DETOUR</small></div>
+          <div class="grade-item bronze"><span class="grade-gem">✦</span><span class="grade-name">Bronze</span><strong>46</strong><small>THE EVERYDAY WINS</small></div>
+        </div>
+      </section>
+      <section class="workspace" id="workspace">
+        <div class="section-head">
+          <div><p class="eyebrow">THE FIELD LOG</p><h2>Pick up where you left off.</h2></div>
+          <div class="progress-chip"><span class="tiny-spark">✦</span><span id="progress">0 / 55 earned</span><span class="chip-track"><i id="chip-bar"></i></span></div>
+        </div>
+        <nav class="tabs" aria-label="Guide sections">
+          <button class="tab active" data-view="tracker">Trophy tracker <span>55</span></button>
+          <button class="tab" data-view="roadmap">Roadmap</button>
+          <button class="tab" data-view="missables">Missable watch <span class="unknown-count">!</span></button>
+        </nav>
+        <div class="toolbar">
+          <label class="searchbox"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a trophy..." autocomplete="off"><kbd>⌘ K</kbd></label>
+          <label class="select-wrap"><span class="sr-only">Filter by grade</span><select id="grade-filter"><option value="all">All grades</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select><span>⌄</span></label>
+          <label class="select-wrap"><span class="sr-only">Filter by kind</span><select id="kind-filter"><option value="all">All kinds</option><option value="story">Story</option><option value="missable">Missable</option><option value="collectibles">Collectibles</option><option value="activities">Activities</option><option value="crime">Crime</option></select><span>⌄</span></label>
+          <label class="spoiler-toggle"><input id="spoiler-setting" type="checkbox"><span class="toggle"></span><span>Hide spoilers</span></label>
+          <div class="data-actions"><button id="export" class="icon-button" title="Export progress" aria-label="Export progress">↥</button><label class="icon-button import-button" title="Import progress" aria-label="Import progress">↧<input id="import" type="file" accept="application/json,.json"></label><button id="reset" class="icon-button" title="Reset progress" aria-label="Reset progress">↺</button></div>
+        </div>
+        <p class="filter-note" id="filter-note">Showing the full list · progress saves on this device.</p>
+        <div class="tracker-layout" id="tracker-view">
+          <div class="trophy-list" id="trophy-list" aria-live="polite"></div>
+          <aside class="detail-panel" id="detail-panel" aria-label="Selected trophy guide"></aside>
+        </div>
+        <div id="roadmap-view" class="content-view" hidden></div>
+        <div id="missables-view" class="content-view" hidden></div>
+      </section>
+      <section class="source-note"><span class="note-mark">i</span><p><strong>A note on certainty.</strong> Trophy names, descriptions, grades and listed progress targets follow the supplied Exophase and PSNProfiles list. Their counts are source-listed; hidden markers are inferred from the stated total of 28, and no missable is independently confirmed here. We label unknowns honestly rather than inventing routes or locations. The app never makes network requests.</p></section>
+    </main>
+    <footer><a class="wordmark" href="#top"><span class="mark">L<span>·</span></span><span>LEONIDA <b>FIELD NOTES</b></span></a><span>TAKE THE LONG WAY HOME.</span><span>MADE FOR YOUR NEXT RUN <b>·</b> 2026</span></footer>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
