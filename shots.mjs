@@ -20,6 +20,11 @@ try {
   await waitForServer();
   browser = await chromium.launch({ executablePath: chromiumPath, headless: true, args: ['--no-sandbox'] });
   const page = await browser.newPage({ viewport: { width: 1280, height: 800 }, deviceScaleFactor: 1 });
+  const networkRequests = [];
+  page.on('request', request => {
+    const url = request.url();
+    if (!url.startsWith('http://127.0.0.1:8091/') && !url.startsWith('http://localhost:8091/')) networkRequests.push(url);
+  });
   page.on('pageerror', error => { throw error; });
   await page.addInitScript(() => { Element.prototype.scrollIntoView = function () {}; });
   await page.addInitScript(({ progress }) => {
@@ -36,6 +41,7 @@ try {
   await page.locator('#spoiler-setting').check({ force: true });
   await page.locator('[data-view="missables"]').first().click();
   const watchText = await page.locator('#missables-view').innerText();
+  if (!watchText.includes('Confirmed') || !watchText.includes('Check before advancing') || !watchText.includes('Unverified')) behaviorFailures.push('Missable Watch does not show distinct Confirmed, Check, and Unverified sections.');
   if (watchText.includes('Just Like Paradise') || watchText.includes('Complete Gone Fishing.')) behaviorFailures.push('Spoiler-on Missable Watch revealed a hidden story name or description.');
   await page.locator('[data-view="tracker"]').first().click();
   await page.locator('#search').fill('Just Like Paradise');
@@ -51,6 +57,17 @@ try {
   await page.locator('#search').fill('Complete Gone Fishing.');
   if (await page.locator('.trophy-row').count() !== 1) behaviorFailures.push('Search did not find the earned story description.');
   if (behaviorFailures.length) throw new Error(`Browser behavior checks failed:\n${behaviorFailures.join('\n')}`);
+  await page.locator('#detail-panel [data-earn]').click();
+  const downloadPromise = page.waitForEvent('download');
+  await page.locator('#export').click();
+  const download = await downloadPromise;
+  const exported = await download.createReadStream();
+  let exportedText = '';
+  for await (const chunk of exported) exportedText += chunk;
+  if (!exportedText.includes('Trust') || !exportedText.includes('Break the Bank')) throw new Error('Export did not contain earned progress.');
+  await page.locator('#import').setInputFiles({ name: 'progress.json', mimeType: 'application/json', buffer: Buffer.from(exportedText) });
+  if (!/5\s*\/\s*55/.test(await page.locator('#progress').innerText())) throw new Error('Import did not restore earned progress.');
+  if (networkRequests.length) throw new Error(`Unexpected network requests: ${networkRequests.join(', ')}`);
   await page.evaluate(({ progress }) => {
     localStorage.setItem('leonida-field-notes-progress-v1', progress);
     localStorage.setItem('leonida-field-notes-preferences-v1', JSON.stringify({ spoilers: false, view: 'tracker' }));
@@ -64,7 +81,7 @@ try {
   if ((await page.locator('#export').innerText()).trim() !== 'Export' || !(await page.locator('.import-button').innerText()).includes('Import')) throw new Error('Import/Export controls are not labeled.');
   await page.locator('#search').fill('Maximum Withdrawal');
   await page.locator('.trophy-row').first().click();
-  await page.locator('.guide-block').filter({ hasText: 'Track five Bank Vault robberies' }).waitFor();
+  await page.locator('.guide-block').filter({ hasText: 'Complete five Bank Vault robberies' }).waitFor();
   await page.locator('#workspace').evaluate(node => window.scrollTo(0, node.getBoundingClientRect().top + window.scrollY - 18));
   await page.waitForTimeout(250);
   await capture(page, '01-checklist.jpg');

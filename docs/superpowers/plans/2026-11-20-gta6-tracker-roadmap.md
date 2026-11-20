@@ -66,6 +66,14 @@
 
 **Files:** all changes above
 
-- [x] Run `makefun check` and require 5 passed, 0 failed.
+- [ ] Run `makefun check` (not run: round rules prohibit it).
 - [x] Check 55 trophies, grades 1/2/6/46, 28 hidden, sources on 55/55, no `http`/`https` references in `app/`, and byte-identical dossier rebuild.
-- [x] Commit all changes in one commit authored as `makefun-agent` and report its hash and check result.
+- [ ] Commit all changes in one commit authored as `makefun-agent` and report its hash and check result.
+
+## Round 4 Evidence Update
+
+- Keep location-specific routes, eligible pools, character rosters, and mission dependencies unclaimed: the available Exophase/PSNProfiles entries establish trophy text, grades, and selected progress targets, not an independently sourced walkthrough.
+- Strengthen count- and condition-based guidance from the supplied list: 250 Stunts, 42 gold Shooting Range challenges, every Top Fun Drone Race location, 20 distinct race wins, 8 stranger strands, every meditation spot, 3 card sets, WAiNK It at 100 locations, 50 Challenges, the three-shop chain, 100 vehicle discoveries, five takedowns in one Combat Focus use, undetected jewelry-store robbery, five Bank Vault robberies with escapes, an Illegal Operation for each gang, $250,000 laundering, $100,000 shop spending, all garage properties, and 10 Scooter Bros registrations.
+- Keep every `missableStatus` `unverified`; separate a cautious Check prompt from Confirmed, which remains empty without evidence of a one-time window.
+- Show the listed source and its role beside the open guide. Roadmap text marks the sourced counts and character-strand unit while identifying the four legs as a planning aid, not a verified unlock order.
+- Re-run browser coverage for concealed-name/description search and display, saved progress after reload, progress export/import, the 55-row baseline, three distinct Watch states, sourced guide rendering, roadmap milestones, zero non-local requests and zero page errors; regenerate all four captures and inspect their size/dimensions.
